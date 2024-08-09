@@ -1,6 +1,6 @@
 import { useReducer, useRef, useState } from "react";
 import "./register.scss";
-import { EmailRounded } from "@material-ui/icons";
+import { EmailRounded } from "@mui/icons-material";
 
 export default function Register() {
   const [email, setEmail] = useState("");

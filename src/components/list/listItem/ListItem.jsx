@@ -3,7 +3,7 @@ import {
   PlayArrow,
   ThumbUpAltOutlined,
   ThumbDownOutlined,
-} from "@material-ui/icons";
+} from "@mui/icons-material";
 import "./listItem.scss";
 import { useState } from "react";
 //import trailer from "../../../assests/video.mp4";
