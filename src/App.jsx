@@ -6,7 +6,7 @@ import Watch from "./pages/watch/Watch";
 function App() {
   return (
     <div>
-      <Watch />
+      <Home />
     </div>
   );
 }
